@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dino.jpg"
+  avatar           : "ASE.jpg"
   name             : "Youngjae Choi"
   pronouns         : # example: "she/her"  
   bio              : "M.S student at Korea University"
