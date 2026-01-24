@@ -12,8 +12,8 @@ Feel free to email :)
 
 ## Education
 
-2024.09. ~ 🏫 **M.S**. Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**<br>
-2024.02. 🏫 **B.S**. ICT Convergence Engineering, **Seoul National University of Science and Technology, *GPA: 4.21/4.5 (2nd Place)<br>***
+2024.09. ~ 🏫 **M.S. Course** Computer Science and Engineering, **Korea University, Sortware Security & Privacy Lab. (Prof. Seunghoon Woo)**<br>
+2024.02. 🏫 **B.S.** ICT Convergence Engineering, **Seoul National University of Science and Technology, *GPA: 4.21/4.5 (2nd Place)<br>***
 
 ## Publications
 👑: Top-Tier Conference
@@ -51,9 +51,9 @@ Feel free to email :)
 
 ## Research Interests
 
-- OSS Vulnerability Detection
-- Supply Chain Security
-- Software Composition Analysis
+- OSS vulnerability detection
+- Software supply chain security
+- Software composition analysis
 
 ## Languages
 Korean<br>
